@@ -24,10 +24,9 @@
 [![](https://img.shields.io/badge/Numpy-white.svg)](https://numpy.org/)
 [![](https://img.shields.io/badge/PowerBI-red.svg)](https://powerbi.microsoft.com/pt-br/)
 
-# Logo
 ![Logo](https://img.freepik.com/vetores-gratis/conceito-de-transformacao-digital-de-vetor-de-fundo-de-cerebro-de-tecnologia-de-ia_53876-117812.jpg?t=st=1649038960~exp=1649039560~hmac=d34bffd0d84bd8fb61b56cd673f39515393d52ef634f28067ab4eac9299efc53&w=1380) 
 
-
+# Definição
 Nesse projetos são aplicação de modelos machine learning no R e python scripts rodar em Azure ML esse projetos práticos da formação cientista de dados da Data Science Academy.
 
 - Modelos classificação, regressão
