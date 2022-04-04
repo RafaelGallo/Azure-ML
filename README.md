@@ -1,18 +1,11 @@
-
 # Azure machine learning projetos
- 
-
-
-Nesse projetos são aplicação de modelos machine learning no R e python scripts rodar em Azure ML esse projetos práticos da formação cientista de dados da Data Science Academy.
-
-- Modelos classificação, regressão
-
-
 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
-[![author](https://img.shields.io/badge/author-RafaelGallo-red.svg)](https://github.com/RafaelGallo?tab=repositories) 
+[![author](https://img.shields.io/badge/author-RafaelGallo-red.svg)](https://github.com/RafaelGallo?tab=repositories)
+[![](https://img.shields.io/badge/Azure-blue.svg)](https://azure.microsoft.com/pt-br/)
+[![](https://img.shields.io/badge/Azure_machine_learning-blue.svg)](https://azure.microsoft.com/pt-br/services/machine-learning/)
 [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-374/) 
 [![](https://img.shields.io/badge/R-3.6.0-red.svg)](https://www.r-project.org/)
 [![](https://img.shields.io/badge/ggplot2-white.svg)](https://ggplot2.tidyverse.org/)
@@ -30,7 +23,16 @@ Nesse projetos são aplicação de modelos machine learning no R e python script
 [![](https://img.shields.io/badge/Scikit_Learn-green.svg)](https://scikit-learn.org/stable/)
 [![](https://img.shields.io/badge/Numpy-white.svg)](https://numpy.org/)
 [![](https://img.shields.io/badge/PowerBI-red.svg)](https://powerbi.microsoft.com/pt-br/)
-![Logo](https://logowik.com/content/uploads/images/t_azure-machine-learning-service1395.jpg)
+![Logo](https://logowik.com/content/uploads/images/t_azure-machine-learning-service1395.jpg) 
+
+
+Nesse projetos são aplicação de modelos machine learning no R e python scripts rodar em Azure ML esse projetos práticos da formação cientista de dados da Data Science Academy.
+
+- Modelos classificação, regressão
+
+
+
+
 
 ## Autores
 
